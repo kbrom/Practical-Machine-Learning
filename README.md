@@ -3,7 +3,7 @@
 
 By Kibrom Haftu  <br />
 March 30, 2018 <br />
-This repository contains Codes for Making and Submitting Plots!
+This repository contains links for the Github Repository.
 <br />
  
 # Data  <br />
