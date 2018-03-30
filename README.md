@@ -14,4 +14,4 @@ https://github.com/kbrom/Practical-Machine-Learning
  
  <br />
  <br />
- HTML Output report : https://github.com/kbrom/Practical-Machine-Learning/Report.html
+ gh-pages branch: HTML OUTPUT : https://kbrom.github.io/Report.html
