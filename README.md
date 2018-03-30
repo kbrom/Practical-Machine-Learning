@@ -1,4 +1,3 @@
-# Practical-Machine-Learning
 # Practical-Machine-Learning--- (John Hopkins  Coursera) <br />
 ## Peer-graded Assignment: Prediction Assignment Writeup
 
