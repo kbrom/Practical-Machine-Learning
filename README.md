@@ -9,7 +9,7 @@ This repository contains links for the Github Repository.
 
  <br />
 ## Github Repo Link    <br />
-## This a  Link to the Github Repository.
+ This a  Link to the Github Repository.
 https://github.com/kbrom/Practical-Machine-Learning
  <br />
-## HTML Output report : https://github.com/kbrom/Practical-Machine-Learning/Report.html
+ HTML Output report : https://github.com/kbrom/Practical-Machine-Learning/Report.html
